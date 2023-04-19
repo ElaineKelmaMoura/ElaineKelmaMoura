@@ -1,1 +1,1 @@
-This folder contains all assests from this repd.
+This folder contains all assests from this repo.
