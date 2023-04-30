@@ -30,7 +30,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elainekelmamoura&" alt="elainekelmamoura" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElaineKelmaMoura)  
+
 #### 🔗 Connect with me:
 
 <p align="left">
