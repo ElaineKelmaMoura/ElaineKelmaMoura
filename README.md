@@ -24,12 +24,13 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 #### 📊 **Github Metrics**
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElaineKelmaMoura)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elainekelmamoura&label=Profile%20views&color=0e75b6&style=flat" alt="elainekelmamoura" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elainekelmamoura&show_icons=true&locale=en" alt="elainekelmamoura" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elainekelmamoura&label=Profile%20views&color=0e75b6&style=flat" alt="elainekelmamoura" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elainekelmamoura&" alt="elainekelmamoura" /></p>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ElaineKelmaMoura)  
 #### 🔗 Connect with me:
 
 <p align="left">
